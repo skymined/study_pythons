@@ -3,9 +3,9 @@
 # ex. 5*1=5, 5*2=10 ... 5*9=45
 # 단수 입력받아 연산
 
-a=int(input())
+num_get=int(input())
 
-for x in range(1,10):
-    print("{}*{}={}".format(a,x,a*x))
+for num_count in range(1,10):
+    print("{}*{}={}".format(num_get,num_count,num_get*num_count))
     pass
 
