@@ -10,13 +10,16 @@
 #출력
 ## 각 테스트 케이스마다 A+B를 출력한다.
 
-t=int(input())
-for x in range(t):
-    a,b = map(int, input().split())
-    list.append(a,b)
+T=int(input())
+List=[]
+
+for i in range(T):
+    a,b=map(int, input().split())
+    result=a+b
+    List.append(result)
+    pass
+for i in List:
+    print(i)
     pass
 
-for x in range(a):
-    x,y=map(int, input().split())
-    print(x+y)
 

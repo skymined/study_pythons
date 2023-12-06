@@ -17,4 +17,6 @@ for str_fruit in list_fruits : # 반복 대상 리스트 직접 넣기
     print("fruit name : {}".format(str_fruit))
 
 
+list_statistics = [0,0,0,0,0] #답한 만큼 0을 넣어줌
+
 print("Program End!")

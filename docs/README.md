@@ -34,3 +34,14 @@
 |Conditional Statement|[py2525🏀](./codingtests/Conditional%20Statement/2525.py) |시간 계산 복합|[백준](https://www.acmicpc.net/problem/2525)|
 |Conditional Statement|[py2480](./codingtests/Conditional%20Statement/2480.py) |시간 계산 복합|[백준](https://www.acmicpc.net/problem/2480)|
 |Loop|[py2739](./codingtests/Loop/2739.py) |구구단 출력|[백준](https://www.acmicpc.net/problem/2739)|
+|Loop|[py10950](./codingtests/Loop/10950.py) |A+B를 여러 번 출력|[백준](https://www.acmicpc.net/problem/10950)|
+|Loop|[py8393](./codingtests/Loop/8393.py) |1부터 N까지의 합|[백준](https://www.acmicpc.net/problem/8393)|
+|Loop|[py25304](./codingtests/Loop/25304.py) |영수증 검증|[백준](https://www.acmicpc.net/problem/25304)|
+|Loop|[py25314](./codingtests/Loop/25314.py) |문자 반복(for문 사용 안함)|[백준](https://www.acmicpc.net/problem/25314)|
+|Loop|[py15552](./codingtests/Loop/15552.py) |sys.stdin.readling()|[백준](https://www.acmicpc.net/problem/15552)|
+|Loop|[py11021](./codingtests/Loop/11021.py) |A+B 예쁘게 출력_1|[백준](https://www.acmicpc.net/problem/11021)|
+|Loop|[py11022](./codingtests/Loop/11022.py) |A+B 예쁘게 출력_2|[백준](https://www.acmicpc.net/problem/11022)|
+|Loop|[py2438](./codingtests/Loop/2438.py) |별 반복 출력_*사용_1|[백준](https://www.acmicpc.net/problem/2438)|
+|Loop|[py2439](./codingtests/Loop/2439.py) |별 반복 출력_*사용_2|[백준](https://www.acmicpc.net/problem/2439)|
+|Loop|[py10952](./codingtests/Loop/10952.py) |While, True, break 사용|[백준](https://www.acmicpc.net/problem/10952)|
+|Loop|[py10951](./codingtests/Loop/10951.py) |While, True, break 사용|[백준](https://www.acmicpc.net/problem/10951)|
