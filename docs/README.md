@@ -6,7 +6,7 @@
 |Input|[inputwiththree_output](./quests/inputwiththree_output.py)|input과 output | .split를 배우다
 |QUEST|[BMIS](./quests/bmis.py)|IF, ELIF, ELSE를 이용|--|
 |QUEST|[곱셈](./quests/timestables.py)|While을 이용|break 를 배우다|
-
+|QUEST|[구구단 반복문](./quests/timestables_for.py)|반복문을 사용해 구구단 계산||
 
 ## Coding Test
 ### Have fun╰(*°▽°*)╯
