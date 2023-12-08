@@ -3,6 +3,7 @@
 # function 2개 사용하기
 # 하나는 return으로 하고 하나는 필요하다고 생각되는 function 만들기
 
+# 첫 번째 방법 (Function 2개 사용하기)
 
 def multiply_repeat(num_1, num_2) :
     result = num_1 * num_2
@@ -22,3 +23,11 @@ while True :
         print(multiply_repeat(input_data_1, input_data_2))
         pass
 
+
+
+## 두 번째 방법 (Function 하나만 사용하기)
+
+def multiply_program():
+    input_data_2 = input()
+    while True : 
+        if 

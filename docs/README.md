@@ -46,3 +46,4 @@
 |Loop|[py10952](./codingtests/Loop/10952.py) |While, True, break 사용|[백준](https://www.acmicpc.net/problem/10952)|
 |Loop|[py10951](./codingtests/Loop/10951.py) |While, True, break 사용|[백준](https://www.acmicpc.net/problem/10951)|
 |One Dimention Array|[py10807](./codingtests/Loop/10807.py) |정수 v개 세기|[백준](https://www.acmicpc.net/problem/10807)|
+|One Dimention Array|[py10871](./codingtests/Loop/10871.py) |x보다 작은 수 세기|[백준](https://www.acmicpc.net/problem/10871)|
