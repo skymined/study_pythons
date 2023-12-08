@@ -49,11 +49,12 @@ while True :
     if "q" in input_data : 
         ex()
         break
-        pass
-    else :
+    elif (input_data=="30" or input_data=="35" or input_data=="20"):
         num =int(input_data)
         cal(num)
-        pass
+    else :
+        print("잘못 입력하셨습니다. 30,35,20 중 하나의 숫자를 입력해주세요.")
+        print("")
 
         
 
