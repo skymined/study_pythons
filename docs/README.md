@@ -47,3 +47,9 @@
 |Loop|[py10951](./codingtests/Loop/10951.py) |While, True, break 사용|[백준](https://www.acmicpc.net/problem/10951)|
 |One Dimention Array|[py10807](./codingtests/Loop/10807.py) |정수 v개 세기|[백준](https://www.acmicpc.net/problem/10807)|
 |One Dimention Array|[py10871](./codingtests/Loop/10871.py) |x보다 작은 수 세기|[백준](https://www.acmicpc.net/problem/10871)|
+|One Dimention Array|[py10818](./codingtests/Loop/10818.py) |최댓값, 최솟값(min, max)|[백준](https://www.acmicpc.net/problem/10818)|
+|One Dimention Array|[py2562](./codingtests/Loop/2562.py) |최댓값 위치|[백준](https://www.acmicpc.net/problem/2562)|
+|One Dimention Array|[py10810](./codingtests/Loop/10810.py) |공 넣기|[백준](https://www.acmicpc.net/problem/10810)|
+|One Dimention Array|[py10813](./codingtests/Loop/10813.py) |공 위치 바꾸기|[백준](https://www.acmicpc.net/problem/10813)|
+|One Dimention Array|[py5597](./codingtests/Loop/5597.py) |출석번호 구하기|[백준](https://www.acmicpc.net/problem/5597)|
+|One Dimention Array|[py3052](./codingtests/Loop/3052.py) |출석번호 구하기|[백준](https://www.acmicpc.net/problem/3052)|

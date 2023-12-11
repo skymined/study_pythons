@@ -12,8 +12,12 @@
 
 a, main = map(int, input().split())
 input_data = list(map(int, input().split()))
-if (input_data[]<a) in input_data :
-    
+main_data = []
+for i in input_data :
+    if i < main : 
+        main_data.append(i)
+# main_data = [i for in input_data if i<X] 이런 방식으로 간결하게 만들 수 있음
+print(*main_data, end="")
 
-print()
+
 
