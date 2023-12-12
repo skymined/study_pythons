@@ -3,12 +3,7 @@
 
 
 def make_list_question_mix (x):
-    dict_input = {
-        # "question" : [],
-        # "answer" : [],
-        # "correct_index" : [],
-        # "score" : []
-    }
+    dict_input = {}
     dict_input["question"] = input("Question을 입력하시오.")
     list_answer_input=[]
     for a in range(4):
