@@ -22,3 +22,10 @@ len(list_mixs)
 list_fruits = ["apple", "banana", "cherry"]
 
 pass
+
+#list 초기화 방식
+list_fruits_primitive = ['melon', 'apple', 'banana', 'cherry']
+tuple_fruits = ('melon', 'apple', 'banana', 'cherry') #튜플은 변화시킬 수 없고 list는 마음대로 변화시킬 수 있음
+list_fruits_constructor = list((''melon', 'apple', 'banana', 'cherry''))
+
+pass

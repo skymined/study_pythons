@@ -2,7 +2,6 @@
 # 
 # 1. import : 같은 파일에 있을 경우 생략
 # 2. class instance
-person = Person()
 # 3. call function
 
 # class basic format
