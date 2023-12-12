@@ -3,19 +3,21 @@
 
 
 def make_list_question_mix (x):
-    list_input = {
-        "question" : [],
-        "answer" : [],
-        "correct_index" : [],
-        "score" : []
+    dict_input = {
+        # "question" : [],
+        # "answer" : [],
+        # "correct_index" : [],
+        # "score" : []
     }
-    list_input["question"] = input("Question을 입력하시오.")
-    for a in range(3):
-        list_input["answer"].append(input("{}번 째 답을 입력하시오.".format(a+1)))
-    list_input["correct_index"] = input("인덱스를 입력하시오.") 
-    list_input["score"] = input("점수를 입력하시오.")
+    dict_input["question"] = input("Question을 입력하시오.")
+    list_answer_input=[]
+    for a in range(4):
+        list_answer_input.append(input("{}번 째 답을 입력하시오.".format(a+1)))
+    dict_input["answer"]=list_answer_input
+    dict_input["correct_index"] = input("인덱스를 입력하시오.") 
+    dict_input["score"] = input("점수를 입력하시오.")
 
-    return list_input
+    return dict_input
 
 list_question_mix=[]
 list_question_mix.append(make_list_question_mix(1))
@@ -30,8 +32,8 @@ for total_list in list_question_mix :
     correct_index = total_list["correct_index"]
     score = total_list["score"]
     print("Question: {}".format(question))
-    for a in range(3) :
-        print("Answer{} : {}".format(a+1,answer[a]))
+    for x in range(4) :
+        print("Answer{} : {}".format(x+1,answer[x]))
     print("Correct_index : {}".format(correct_index))
     print("score : {}".format(score))
     
