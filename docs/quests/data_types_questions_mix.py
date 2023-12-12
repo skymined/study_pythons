@@ -4,15 +4,16 @@
 
 def make_list_question_mix (x):
     list_input = {
-    "question" : [],
-    "answer" : [],
-    "correct_index" : [],
-    "score" : []
-}
-    list_input["question"] = input("{}번 째 Question을 입력하시오.".format(x))
-    list_input["answer"] = input("{}번 째 답들을 입력하시오.".format(x))
-    list_input["correct_index"] = input("{}번 째 인덱스를 입력하시오.".format(x)) 
-    list_input["score"] = input("{}번 째 점수를 입력하시오.".format(x))
+        "question" : [],
+        "answer" : [],
+        "correct_index" : [],
+        "score" : []
+    }
+    list_input["question"] = input("Question을 입력하시오.")
+    for a in range(3):
+        list_input["answer"].append(input("{}번 째 답을 입력하시오.".format(a+1)))
+    list_input["correct_index"] = input("인덱스를 입력하시오.") 
+    list_input["score"] = input("점수를 입력하시오.")
 
     return list_input
 
@@ -29,7 +30,8 @@ for total_list in list_question_mix :
     correct_index = total_list["correct_index"]
     score = total_list["score"]
     print("Question: {}".format(question))
-    print("Answer : {}".format(answer))
+    for a in range(3) :
+        print("Answer{} : {}".format(a+1,answer[a]))
     print("Correct_index : {}".format(correct_index))
     print("score : {}".format(score))
     
