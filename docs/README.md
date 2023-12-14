@@ -52,4 +52,13 @@
 |One Dimention Array|[py10810](./codingtests/Loop/10810.py) |공 넣기|[백준](https://www.acmicpc.net/problem/10810)|
 |One Dimention Array|[py10813](./codingtests/Loop/10813.py) |공 위치 바꾸기|[백준](https://www.acmicpc.net/problem/10813)|
 |One Dimention Array|[py5597](./codingtests/Loop/5597.py) |출석번호 구하기|[백준](https://www.acmicpc.net/problem/5597)|
-|One Dimention Array|[py3052](./codingtests/Loop/3052.py) |출석번호 구하기|[백준](https://www.acmicpc.net/problem/3052)|
+|One Dimention Array|[py3052](./codingtests/Loop/3052.py) |나머지 구하기|[백준](https://www.acmicpc.net/problem/3052)|
+|One Dimention Array|[py10811](./codingtests/Loop/10811.py) |바구니 숫자 뒤집기|[백준](https://www.acmicpc.net/problem/10811)|
+|One Dimention Array|[py1546](./codingtests/Loop/1546.py) |평균 구하기|[백준](https://www.acmicpc.net/problem/1546)|
+|String|[py27866](./codingtests/String/27866.py) |문자와 문자열|[백준](https://www.acmicpc.net/problem/27866)|
+|String|[py2743](./codingtests/String/2743.py) |단어 길이 재기|[백준](https://www.acmicpc.net/problem/2743)|
+|String|[py9086](./codingtests/String/9086.py) |문자열|[백준](https://www.acmicpc.net/problem/9086)|
+|String|[py11654](./codingtests/String/11654.py) |아스키 코드|[백준](https://www.acmicpc.net/problem/11654)|
+|String|[py11720](./codingtests/String/11720.py) |숫자의 합|[백준](https://www.acmicpc.net/problem/11720)|
+|String|[py10809](./codingtests/String/10809.py) |알파벳 찾기|[백준](https://www.acmicpc.net/problem/10809)|
+|String|[py2675](./codingtests/String/2675.py) |문자열 반복|[백준](https://www.acmicpc.net/problem/2675)|

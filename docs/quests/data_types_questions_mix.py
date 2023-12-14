@@ -18,7 +18,7 @@ list_question_mix=[]
 list_question_mix.append(make_list_question_mix(1))
 list_question_mix.append(make_list_question_mix(2))
 list_question_mix.append(make_list_question_mix(3))
-
+ 
 pass
 
 for total_list in list_question_mix :

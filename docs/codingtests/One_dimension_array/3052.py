@@ -10,16 +10,9 @@
 #출력
 ## 첫째 줄에, 42로 나누었을 때, 서로 다른 나머지가 몇 개 있는지 출력한다.
 
-input_data=[]
-left=[]
-for i in range(1,11) : #값 10개를 input_data를 넣고 left에 나머지들을 넣음
-    input_data.append(int(input()))
-left.append((input_data[i-1])%4)
 
-left=sorted(left) #나머지들을 정렬
+left = [(int(input())%42) for x in range(10)]
 
-for j in range(1,11) : 
-    if (left[j-1] == left[j]):
-        del left[j]
+print(len(set(left)))
 
-print(len(left))
+
