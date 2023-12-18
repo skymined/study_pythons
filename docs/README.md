@@ -61,4 +61,13 @@
 |String|[py11654](./codingtests/String/11654.py) |아스키 코드|[백준](https://www.acmicpc.net/problem/11654)|
 |String|[py11720](./codingtests/String/11720.py) |숫자의 합|[백준](https://www.acmicpc.net/problem/11720)|
 |String|[py10809](./codingtests/String/10809.py) |알파벳 찾기|[백준](https://www.acmicpc.net/problem/10809)|
-|String|[py2675](./codingtests/String/2675.py) |문자열 반복|[백준](https://www.acmicpc.net/problem/2675)|
+|String|[py2675🏀](./codingtests/String/2675.py) |문자열 반복|[백준](https://www.acmicpc.net/problem/2675)|
+|String|[py1152](./codingtests/String/1152.py) |단어의 개수|[백준](https://www.acmicpc.net/problem/1152)|
+|String|[py2908](./codingtests/String/2908.py) |상수|[백준](https://www.acmicpc.net/problem/2908)|
+|String|[py5622](./codingtests/String/5622.py) |다이얼|[백준](https://www.acmicpc.net/problem/5622)|
+|String|[py11718](./codingtests/String/11718.py) |그대로 출력하기|[백준](https://www.acmicpc.net/problem/11718)|
+|Advance step1|[py11718](./codingtests/advancestep1/25083.py) |새싹 출력|[백준](https://www.acmicpc.net/problem/25083)|
+|Advance step1|[py3003](./codingtests/advancestep1/3003.py) |체스|[백준](https://www.acmicpc.net/problem/3003)|
+|Advance step1|[py2444](./codingtests/advancestep1/2444.py) |별 찍기|[백준](https://www.acmicpc.net/problem/2444)|
+|Advance step1|[py10988](./codingtests/advancestep1/10988.py) |팰린드롬인지 확인|[백준](https://www.acmicpc.net/problem/10988)|
+|Advance step1|[py1157](./codingtests/advancestep1/1157.py) |가장 많이 사용된 알파벳|[백준](https://www.acmicpc.net/problem/1157)|

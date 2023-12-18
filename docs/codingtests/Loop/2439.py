@@ -10,15 +10,15 @@
 #출력
 ## 첫째 줄부터 N번째 줄까지 차례대로 별을 출력한다.
 
-n=int(input())
+# n=int(input())
 
-for i in range(n):
-    print(" "*(n-i-1)+"*"*(i+1))
-    pass
+# for i in range(n):
+#     print(" "*(n-i-1)+"*"*(i+1))
+#     pass
 
 
 # 다른 방식
 
 n=int(input())
-print(' '*(n-i)+'*'*i) for i in range(1,n+1)
+print('\n'.join(' '*(n-i)+'*'*i for i in range(1,n+1)))
 
